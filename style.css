@@ -1,0 +1,29 @@
+body{
+background:#f5f7fb;
+font-family:Arial;
+}
+
+.login-body{
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+background:linear-gradient(120deg,#003366,#0055aa);
+}
+
+.login-container{
+background:white;
+padding:40px;
+border-radius:10px;
+width:350px;
+text-align:center;
+box-shadow:0 10px 25px rgba(0,0,0,0.2);
+}
+
+.logo{
+width:230px;
+}
+
+.red{
+background:#ffb3b3 !important;
+}
